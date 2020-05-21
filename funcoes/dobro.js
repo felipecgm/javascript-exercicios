@@ -1,0 +1,7 @@
+function dobro(numero) {
+    return numero*2;
+}
+
+dobro(5);
+dobro(1.5);
+
